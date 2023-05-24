@@ -3,11 +3,11 @@ import { Link } from "../Link";
 export default function Page404() {
   return (
     <>
+      <h1>Page not Found</h1>
       <img
-        src="https://www.google.com/search?q=404&client=firefox-b-d&sxsrf=APwXEdfR-b9DCmjV0n7P-a-VGjg1X2NHuA:1684876624477&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjF0MTFroz_AhWZlWoFHd3lCvwQ_AUoAXoECAEQAw&biw=1366&bih=635&dpr=1#imgrc=6enA_WME5cGu0M"
+        src="https://midu.dev/images/this-is-fine-404.gif "
         alt="Error 404"
       />
-      <h1>Page not Found</h1>
 
       <p>
         Oh la pagina que esta intentando buscar no se encuentra,regrese a la
